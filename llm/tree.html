@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radial Tree Visualization</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+</head>
+<body>
+    <h1>Radial Tree Visualization</h1>
+    <div id="chart"></div>
+
+    <script>
+        // ローカルのJSONファイルを読み込む
+        d3.json("tag_tree.json").then(function(data) {
+            
+            // サイズとマージン
+            const width = 3000;
+            const height = 3000;
+            const margin = 200;
+            const radius = Math.min(width, height) / 2 - margin;
+
+            // svg要素の作成
+            const svg = d3.select("#chart")
+                .append("svg")
+                .attr("width", width)
+                .attr("height", height)
+                .append("g")
+                .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+            // ツリーのレイアウト
+            const tree = d3.tree().size([2 * Math.PI, radius]);
+
+            // データを階層構造に変換
+            const root = d3.hierarchy(data);
+            tree(root);
+
+            // リンク（親子の線）
+            svg.selectAll(".link")
+                .data(root.links())
+                .enter().append("path")
+                .attr("class", "link")
+                .attr("d", d3.linkRadial().angle(d => d.x).radius(d => d.y))
+                .attr("fill", "none")
+                .attr("stroke", "#ccc");
+
+            // ノード（円）
+            const node = svg.selectAll(".node")
+                .data(root.descendants())
+                .enter().append("g")
+                .attr("class", "node")
+                .attr("transform", d => "rotate(" + (d.x * 180 / Math.PI - 90) + ") translate(" + d.y + ",0)");
+
+            node.append("circle")
+                .attr("r", 5)
+                .attr("fill", d => d.children ? "#ff0000" : "#00ff00");
+
+            // ノードのテキストを追加
+            node.append("text")
+                .attr("dy", "0.32em")
+                .attr("x", d => {
+                    // 左半分は逆に内側（-6）、右半分はそのまま外側（6）
+                    return d.x < Math.PI ? 7 : 6;
+                })
+                .attr("text-anchor", "start")  // 右半分も左寄せ（start）のまま
+                .text(d => d.data.name);
+
+
+        }).catch(function(error) {
+            console.error("Error loading JSON data: " + error);
+        });
+    </script>
+</body>
+</html>
