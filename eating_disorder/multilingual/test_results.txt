@@ -1,0 +1,57 @@
+Test Results for Each Fold
+==================================================
+Fold 1 Test Results:
+  eval_loss: 0.0419
+  eval_accuracy: 0.9890
+  eval_precision: 0.9890
+  eval_recall: 0.9890
+  eval_f1: 0.9890
+  eval_runtime: 38.7208
+  eval_samples_per_second: 299.5810
+  eval_steps_per_second: 18.7240
+  epoch: 7.0000
+--------------------------------------------------
+Fold 2 Test Results:
+  eval_loss: 0.0626
+  eval_accuracy: 0.9857
+  eval_precision: 0.9857
+  eval_recall: 0.9857
+  eval_f1: 0.9857
+  eval_runtime: 38.5795
+  eval_samples_per_second: 300.6780
+  eval_steps_per_second: 18.7920
+  epoch: 4.0000
+--------------------------------------------------
+Fold 3 Test Results:
+  eval_loss: 0.0651
+  eval_accuracy: 0.9889
+  eval_precision: 0.9889
+  eval_recall: 0.9889
+  eval_f1: 0.9889
+  eval_runtime: 38.2077
+  eval_samples_per_second: 303.6030
+  eval_steps_per_second: 18.9750
+  epoch: 5.0000
+--------------------------------------------------
+Fold 4 Test Results:
+  eval_loss: 0.0403
+  eval_accuracy: 0.9914
+  eval_precision: 0.9914
+  eval_recall: 0.9914
+  eval_f1: 0.9914
+  eval_runtime: 38.7201
+  eval_samples_per_second: 299.5860
+  eval_steps_per_second: 18.7240
+  epoch: 7.0000
+--------------------------------------------------
+Fold 5 Test Results:
+  eval_loss: 0.0684
+  eval_accuracy: 0.9876
+  eval_precision: 0.9877
+  eval_recall: 0.9876
+  eval_f1: 0.9876
+  eval_runtime: 33.6948
+  eval_samples_per_second: 344.2670
+  eval_steps_per_second: 21.5170
+  epoch: 8.0000
+--------------------------------------------------

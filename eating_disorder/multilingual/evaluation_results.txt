@@ -1,0 +1,390 @@
+
+[Korean_Model_on_Japanese_Test_Data] on Japanese Test Dataset:
+eval_loss: 0.0503
+eval_accuracy: 0.9890
+eval_precision: 0.9890
+eval_recall: 0.9890
+eval_f1: 0.9890
+eval_runtime: 38.8492
+eval_samples_per_second: 298.5910
+eval_steps_per_second: 18.6620
+epoch: 5.0000
+
+--------------------------------------------------
+
+[Japanese_Model_on_Korean_Test_Data] on Korean Test Dataset:
+eval_loss: 2.2098
+eval_accuracy: 0.5387
+eval_precision: 0.6393
+eval_recall: 0.5387
+eval_f1: 0.4371
+eval_runtime: 38.6778
+eval_samples_per_second: 299.9140
+eval_steps_per_second: 18.7450
+epoch: 5.0000
+
+--------------------------------------------------
+
+[Korean_Model_on_Japanese_Test_Data] on Japanese Test Dataset:
+eval_loss: 0.0597
+eval_accuracy: 0.9866
+eval_precision: 0.9867
+eval_recall: 0.9866
+eval_f1: 0.9866
+eval_runtime: 38.5584
+eval_samples_per_second: 300.8430
+eval_steps_per_second: 18.8030
+epoch: 4.0000
+
+--------------------------------------------------
+
+[Japanese_Model_on_Korean_Test_Data] on Korean Test Dataset:
+eval_loss: 1.0862
+eval_accuracy: 0.6791
+eval_precision: 0.6793
+eval_recall: 0.6791
+eval_f1: 0.6789
+eval_runtime: 38.9030
+eval_samples_per_second: 298.1780
+eval_steps_per_second: 18.6360
+epoch: 4.0000
+
+--------------------------------------------------
+
+[Korean_Model_on_Japanese_Test_Data] on Japanese Test Dataset:
+eval_loss: 0.0651
+eval_accuracy: 0.9889
+eval_precision: 0.9889
+eval_recall: 0.9889
+eval_f1: 0.9889
+eval_runtime: 38.7134
+eval_samples_per_second: 299.6380
+eval_steps_per_second: 18.7270
+epoch: 5.0000
+
+--------------------------------------------------
+
+[Japanese_Model_on_Korean_Test_Data] on Korean Test Dataset:
+eval_loss: 1.6719
+eval_accuracy: 0.6087
+eval_precision: 0.6490
+eval_recall: 0.6087
+eval_f1: 0.5804
+eval_runtime: 38.8289
+eval_samples_per_second: 298.7460
+eval_steps_per_second: 18.6720
+epoch: 5.0000
+
+--------------------------------------------------
+
+[Korean_Model_on_Japanese_Test_Data] on Japanese Test Dataset:
+eval_loss: 0.0403
+eval_accuracy: 0.9914
+eval_precision: 0.9914
+eval_recall: 0.9914
+eval_f1: 0.9914
+eval_runtime: 38.7480
+eval_samples_per_second: 299.3700
+eval_steps_per_second: 18.7110
+epoch: 7.0000
+
+--------------------------------------------------
+
+[Japanese_Model_on_Korean_Test_Data] on Korean Test Dataset:
+eval_loss: 1.7198
+eval_accuracy: 0.6667
+eval_precision: 0.6697
+eval_recall: 0.6667
+eval_f1: 0.6653
+eval_runtime: 38.8105
+eval_samples_per_second: 298.8880
+eval_steps_per_second: 18.6810
+epoch: 7.0000
+
+--------------------------------------------------
+
+[Korean_Model_on_Japanese_Test_Data] on Japanese Test Dataset:
+eval_loss: 0.0684
+eval_accuracy: 0.9876
+eval_precision: 0.9877
+eval_recall: 0.9876
+eval_f1: 0.9876
+eval_runtime: 38.6621
+eval_samples_per_second: 300.0360
+eval_steps_per_second: 18.7520
+epoch: 8.0000
+
+--------------------------------------------------
+
+[Japanese_Model_on_Korean_Test_Data] on Korean Test Dataset:
+eval_loss: 1.5087
+eval_accuracy: 0.6886
+eval_precision: 0.6887
+eval_recall: 0.6886
+eval_f1: 0.6886
+eval_runtime: 38.8412
+eval_samples_per_second: 298.6520
+eval_steps_per_second: 18.6660
+epoch: 8.0000
+
+--------------------------------------------------
+
+[Korean_Model_on_Japanese_Test_Data] on Japanese Test Dataset:
+eval_loss: 0.0447
+eval_accuracy: 0.9901
+eval_precision: 0.9901
+eval_recall: 0.9901
+eval_f1: 0.9901
+eval_runtime: 38.5761
+eval_samples_per_second: 300.7040
+eval_steps_per_second: 18.7940
+epoch: 7.0000
+
+--------------------------------------------------
+
+[Japanese_Model_on_Korean_Test_Data] on Korean Test Dataset:
+eval_loss: 2.0181
+eval_accuracy: 0.6176
+eval_precision: 0.6599
+eval_recall: 0.6176
+eval_f1: 0.5905
+eval_runtime: 39.1170
+eval_samples_per_second: 296.5460
+eval_steps_per_second: 18.5340
+epoch: 7.0000
+
+--------------------------------------------------
+
+[Korean_Model_on_Japanese_Test_Data] on Japanese Test Dataset:
+eval_loss: 0.0626
+eval_accuracy: 0.9857
+eval_precision: 0.9857
+eval_recall: 0.9857
+eval_f1: 0.9857
+eval_runtime: 38.8509
+eval_samples_per_second: 298.5780
+eval_steps_per_second: 18.6610
+epoch: 4.0000
+
+--------------------------------------------------
+
+[Japanese_Model_on_Korean_Test_Data] on Korean Test Dataset:
+eval_loss: 1.4009
+eval_accuracy: 0.6044
+eval_precision: 0.7288
+eval_recall: 0.6044
+eval_f1: 0.5422
+eval_runtime: 38.9273
+eval_samples_per_second: 297.9910
+eval_steps_per_second: 18.6240
+epoch: 4.0000
+
+--------------------------------------------------
+
+[Korean_Model_on_Japanese_Test_Data] on Japanese Test Dataset:
+eval_loss: 0.0651
+eval_accuracy: 0.9889
+eval_precision: 0.9889
+eval_recall: 0.9889
+eval_f1: 0.9889
+eval_runtime: 39.0081
+eval_samples_per_second: 297.3740
+eval_steps_per_second: 18.5860
+epoch: 5.0000
+
+--------------------------------------------------
+
+[Japanese_Model_on_Korean_Test_Data] on Korean Test Dataset:
+eval_loss: 1.6719
+eval_accuracy: 0.6087
+eval_precision: 0.6490
+eval_recall: 0.6087
+eval_f1: 0.5804
+eval_runtime: 38.9611
+eval_samples_per_second: 297.7330
+eval_steps_per_second: 18.6080
+epoch: 5.0000
+
+--------------------------------------------------
+
+[Korean_Model_on_Japanese_Test_Data] on Japanese Test Dataset:
+eval_loss: 0.0403
+eval_accuracy: 0.9914
+eval_precision: 0.9914
+eval_recall: 0.9914
+eval_f1: 0.9914
+eval_runtime: 38.8358
+eval_samples_per_second: 298.6940
+eval_steps_per_second: 18.6680
+epoch: 7.0000
+
+--------------------------------------------------
+
+[Japanese_Model_on_Korean_Test_Data] on Korean Test Dataset:
+eval_loss: 1.7198
+eval_accuracy: 0.6667
+eval_precision: 0.6697
+eval_recall: 0.6667
+eval_f1: 0.6653
+eval_runtime: 38.9996
+eval_samples_per_second: 297.4390
+eval_steps_per_second: 18.5900
+epoch: 7.0000
+
+--------------------------------------------------
+
+[Korean_Model_on_Japanese_Test_Data] on Japanese Test Dataset:
+eval_loss: 0.0684
+eval_accuracy: 0.9876
+eval_precision: 0.9877
+eval_recall: 0.9876
+eval_f1: 0.9876
+eval_runtime: 38.8332
+eval_samples_per_second: 298.7130
+eval_steps_per_second: 18.6700
+epoch: 8.0000
+
+--------------------------------------------------
+
+[Japanese_Model_on_Korean_Test_Data] on Korean Test Dataset:
+eval_loss: 1.5087
+eval_accuracy: 0.6886
+eval_precision: 0.6887
+eval_recall: 0.6886
+eval_f1: 0.6886
+eval_runtime: 39.0205
+eval_samples_per_second: 297.2790
+eval_steps_per_second: 18.5800
+epoch: 8.0000
+
+--------------------------------------------------
+
+[Korean_Model_on_Japanese_Test_Data] on Japanese Test Dataset:
+eval_loss: 0.0419
+eval_accuracy: 0.9890
+eval_precision: 0.9890
+eval_recall: 0.9890
+eval_f1: 0.9890
+eval_runtime: 38.9143
+eval_samples_per_second: 298.0910
+eval_steps_per_second: 18.6310
+epoch: 7.0000
+
+--------------------------------------------------
+
+[Japanese_Model_on_Korean_Test_Data] on Korean Test Dataset:
+eval_loss: 1.9762
+eval_accuracy: 0.6137
+eval_precision: 0.6776
+eval_recall: 0.6137
+eval_f1: 0.5755
+eval_runtime: 38.8173
+eval_samples_per_second: 298.8360
+eval_steps_per_second: 18.6770
+epoch: 7.0000
+
+--------------------------------------------------
+
+[Korean_Model_on_Japanese_Test_Data] on Japanese Test Dataset:
+eval_loss: 0.0626
+eval_accuracy: 0.9857
+eval_precision: 0.9857
+eval_recall: 0.9857
+eval_f1: 0.9857
+eval_runtime: 38.9377
+eval_samples_per_second: 297.9110
+eval_steps_per_second: 18.6190
+epoch: 4.0000
+
+--------------------------------------------------
+
+[Japanese_Model_on_Korean_Test_Data] on Korean Test Dataset:
+eval_loss: 1.4009
+eval_accuracy: 0.6044
+eval_precision: 0.7288
+eval_recall: 0.6044
+eval_f1: 0.5422
+eval_runtime: 39.0004
+eval_samples_per_second: 297.4330
+eval_steps_per_second: 18.5900
+epoch: 4.0000
+
+--------------------------------------------------
+
+[Korean_Model_on_Japanese_Test_Data] on Japanese Test Dataset:
+eval_loss: 0.0651
+eval_accuracy: 0.9889
+eval_precision: 0.9889
+eval_recall: 0.9889
+eval_f1: 0.9889
+eval_runtime: 38.7873
+eval_samples_per_second: 299.0670
+eval_steps_per_second: 18.6920
+epoch: 5.0000
+
+--------------------------------------------------
+
+[Japanese_Model_on_Korean_Test_Data] on Korean Test Dataset:
+eval_loss: 1.6719
+eval_accuracy: 0.6087
+eval_precision: 0.6490
+eval_recall: 0.6087
+eval_f1: 0.5804
+eval_runtime: 38.9437
+eval_samples_per_second: 297.8660
+eval_steps_per_second: 18.6170
+epoch: 5.0000
+
+--------------------------------------------------
+
+[Korean_Model_on_Japanese_Test_Data] on Japanese Test Dataset:
+eval_loss: 0.0403
+eval_accuracy: 0.9914
+eval_precision: 0.9914
+eval_recall: 0.9914
+eval_f1: 0.9914
+eval_runtime: 38.7777
+eval_samples_per_second: 299.1410
+eval_steps_per_second: 18.6960
+epoch: 7.0000
+
+--------------------------------------------------
+
+[Japanese_Model_on_Korean_Test_Data] on Korean Test Dataset:
+eval_loss: 1.7198
+eval_accuracy: 0.6667
+eval_precision: 0.6697
+eval_recall: 0.6667
+eval_f1: 0.6653
+eval_runtime: 38.8563
+eval_samples_per_second: 298.5360
+eval_steps_per_second: 18.6580
+epoch: 7.0000
+
+--------------------------------------------------
+
+[Korean_Model_on_Japanese_Test_Data] on Japanese Test Dataset:
+eval_loss: 0.0684
+eval_accuracy: 0.9876
+eval_precision: 0.9877
+eval_recall: 0.9876
+eval_f1: 0.9876
+eval_runtime: 33.8290
+eval_samples_per_second: 342.9010
+eval_steps_per_second: 21.4310
+epoch: 8.0000
+
+--------------------------------------------------
+
+[Japanese_Model_on_Korean_Test_Data] on Korean Test Dataset:
+eval_loss: 1.5087
+eval_accuracy: 0.6886
+eval_precision: 0.6887
+eval_recall: 0.6886
+eval_f1: 0.6886
+eval_runtime: 33.8375
+eval_samples_per_second: 342.8140
+eval_steps_per_second: 21.4260
+epoch: 8.0000
+
+--------------------------------------------------

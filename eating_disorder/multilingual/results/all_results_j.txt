@@ -1,0 +1,25 @@
+--- Fold 0 ---
+Validation Metrics: {'eval_loss': 0.042811211198568344, 'eval_accuracy': 0.9917025862068966, 'eval_precision': 0.9917026090453427, 'eval_recall': 0.9917025862068966, 'eval_f1': 0.9917025861105477, 'eval_runtime': 30.7559, 'eval_samples_per_second': 301.73, 'eval_steps_per_second': 37.716, 'epoch': 6.0}
+Test Metrics: {'eval_loss': 0.055557239800691605, 'eval_accuracy': 0.9900862068965517, 'eval_precision': 0.9900886689947996, 'eval_recall': 0.9900862068965517, 'eval_f1': 0.9900861944453543, 'eval_runtime': 39.2687, 'eval_samples_per_second': 295.4, 'eval_steps_per_second': 36.925, 'epoch': 6.0}
+
+--- Fold 1 ---
+Validation Metrics: {'eval_loss': 0.044343460351228714, 'eval_accuracy': 0.990948275862069, 'eval_precision': 0.9909505562135674, 'eval_recall': 0.9909482758620689, 'eval_f1': 0.9909482653512668, 'eval_runtime': 30.7332, 'eval_samples_per_second': 301.954, 'eval_steps_per_second': 37.744, 'epoch': 7.0}
+Test Metrics: {'eval_loss': 0.053149815648794174, 'eval_accuracy': 0.9894827586206897, 'eval_precision': 0.9894925950355007, 'eval_recall': 0.9894827586206897, 'eval_f1': 0.9894827057841045, 'eval_runtime': 39.7068, 'eval_samples_per_second': 292.141, 'eval_steps_per_second': 36.518, 'epoch': 7.0}
+
+--- Fold 2 ---
+Validation Metrics: {'eval_loss': 0.03688717633485794, 'eval_accuracy': 0.9926724137931034, 'eval_precision': 0.9927020725831445, 'eval_recall': 0.9926724137931034, 'eval_f1': 0.9926723035182419, 'eval_runtime': 30.6831, 'eval_samples_per_second': 302.446, 'eval_steps_per_second': 37.806, 'epoch': 6.0}
+Test Metrics: {'eval_loss': 0.047990791499614716, 'eval_accuracy': 0.9903448275862069, 'eval_precision': 0.9903730488175538, 'eval_recall': 0.9903448275862069, 'eval_f1': 0.9903446886691236, 'eval_runtime': 39.6806, 'eval_samples_per_second': 292.334, 'eval_steps_per_second': 36.542, 'epoch': 6.0}
+
+--- Fold 3 ---
+Validation Metrics: {'eval_loss': 0.04268262907862663, 'eval_accuracy': 0.990301724137931, 'eval_precision': 0.9903018152314609, 'eval_recall': 0.990301724137931, 'eval_f1': 0.9903017236874686, 'eval_runtime': 30.3191, 'eval_samples_per_second': 306.078, 'eval_steps_per_second': 38.26, 'epoch': 5.0}
+Test Metrics: {'eval_loss': 0.04965738207101822, 'eval_accuracy': 0.9887931034482759, 'eval_precision': 0.9888044953247423, 'eval_recall': 0.9887931034482759, 'eval_f1': 0.9887930381520653, 'eval_runtime': 39.3402, 'eval_samples_per_second': 294.864, 'eval_steps_per_second': 36.858, 'epoch': 5.0}
+
+--- Fold 4 ---
+Validation Metrics: {'eval_loss': 0.03563442826271057, 'eval_accuracy': 0.9914870689655172, 'eval_precision': 0.9914870917939531, 'eval_recall': 0.9914870689655173, 'eval_f1': 0.9914870688666657, 'eval_runtime': 30.8584, 'eval_samples_per_second': 300.729, 'eval_steps_per_second': 37.591, 'epoch': 6.0}
+Test Metrics: {'eval_loss': 0.04223359748721123, 'eval_accuracy': 0.9894827586206897, 'eval_precision': 0.9894827586206897, 'eval_recall': 0.9894827586206897, 'eval_f1': 0.9894827586206897, 'eval_runtime': 39.702, 'eval_samples_per_second': 292.176, 'eval_steps_per_second': 36.522, 'epoch': 6.0}
+
+Best model saved from fold 4 with validation loss 0.03563442826271057
+
+--- Final Results ---
+Average Validation Metrics: {'eval_loss': np.float64(0.04047178104519844), 'eval_accuracy': np.float64(0.9914224137931035), 'eval_precision': np.float64(0.9914288289734937), 'eval_recall': np.float64(0.9914224137931035), 'eval_f1': np.float64(0.9914223895068381), 'eval_runtime': np.float64(30.669939999999997), 'eval_samples_per_second': np.float64(302.5874), 'eval_steps_per_second': np.float64(37.82340000000001), 'epoch': np.float64(6.0)}
+Average Test Metrics: {'eval_loss': np.float64(0.04971776530146599), 'eval_accuracy': np.float64(0.9896379310344828), 'eval_precision': np.float64(0.9896483133586573), 'eval_recall': np.float64(0.9896379310344828), 'eval_f1': np.float64(0.9896378771342675), 'eval_runtime': np.float64(39.539660000000005), 'eval_samples_per_second': np.float64(293.383), 'eval_steps_per_second': np.float64(36.672999999999995), 'epoch': np.float64(6.0)}

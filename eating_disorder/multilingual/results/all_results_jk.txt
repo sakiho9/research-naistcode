@@ -1,0 +1,43 @@
+--- Fold 0 ---
+Validation Metrics: {'eval_loss': 0.11180561780929565, 'eval_accuracy': 0.9731681034482759, 'eval_precision': 0.9735228452907483, 'eval_recall': 0.9731681034482759, 'eval_f1': 0.9731630771968838, 'eval_runtime': 27.4648, 'eval_samples_per_second': 337.888, 'eval_steps_per_second': 42.236, 'epoch': 5.0}
+Test Metrics: {'eval_loss': 0.12337901443243027, 'eval_accuracy': 0.9711206896551724, 'eval_precision': 0.9713059756696858, 'eval_recall': 0.9711206896551724, 'eval_f1': 0.9711178510224419, 'eval_runtime': 34.7403, 'eval_samples_per_second': 333.906, 'eval_steps_per_second': 41.738, 'epoch': 5.0}
+
+--- Fold 1 ---
+Validation Metrics: {'eval_loss': 0.08588817715644836, 'eval_accuracy': 0.9709051724137931, 'eval_precision': 0.9712751072622219, 'eval_recall': 0.9709051724137931, 'eval_f1': 0.9708994616818523, 'eval_runtime': 27.7401, 'eval_samples_per_second': 334.534, 'eval_steps_per_second': 41.817, 'epoch': 4.0}
+Test Metrics: {'eval_loss': 0.09551849216222763, 'eval_accuracy': 0.9678448275862069, 'eval_precision': 0.9681214840435276, 'eval_recall': 0.9678448275862068, 'eval_f1': 0.9678400760147983, 'eval_runtime': 34.9299, 'eval_samples_per_second': 332.093, 'eval_steps_per_second': 41.512, 'epoch': 4.0}
+
+--- Fold 2 ---
+Validation Metrics: {'eval_loss': 0.1104651615023613, 'eval_accuracy': 0.9773706896551724, 'eval_precision': 0.9773729069416381, 'eval_recall': 0.9773706896551724, 'eval_f1': 0.977370663378167, 'eval_runtime': 27.4113, 'eval_samples_per_second': 338.546, 'eval_steps_per_second': 42.318, 'epoch': 5.0}
+Test Metrics: {'eval_loss': 0.12416788190603256, 'eval_accuracy': 0.9742241379310345, 'eval_precision': 0.9742258436779752, 'eval_recall': 0.9742241379310346, 'eval_f1': 0.9742241147526597, 'eval_runtime': 34.6216, 'eval_samples_per_second': 335.051, 'eval_steps_per_second': 41.881, 'epoch': 5.0}
+
+--- Fold 3 ---
+Validation Metrics: {'eval_loss': 0.1052996963262558, 'eval_accuracy': 0.9714439655172413, 'eval_precision': 0.971633432927755, 'eval_recall': 0.9714439655172413, 'eval_f1': 0.971441097303835, 'eval_runtime': 27.5688, 'eval_samples_per_second': 336.612, 'eval_steps_per_second': 42.076, 'epoch': 4.0}
+Test Metrics: {'eval_loss': 0.1157354861497879, 'eval_accuracy': 0.966551724137931, 'eval_precision': 0.9666158630127994, 'eval_recall': 0.966551724137931, 'eval_f1': 0.9665505746868115, 'eval_runtime': 34.9345, 'eval_samples_per_second': 332.05, 'eval_steps_per_second': 41.506, 'epoch': 4.0}
+
+--- Fold 4 ---
+Validation Metrics: {'eval_loss': 0.09850039333105087, 'eval_accuracy': 0.9707974137931035, 'eval_precision': 0.9708735466899537, 'eval_recall': 0.9707974137931035, 'eval_f1': 0.9707962333448865, 'eval_runtime': 27.7106, 'eval_samples_per_second': 334.89, 'eval_steps_per_second': 41.861, 'epoch': 5.0}
+Test Metrics: {'eval_loss': 0.10481154173612595, 'eval_accuracy': 0.9714655172413793, 'eval_precision': 0.9714890776795356, 'eval_recall': 0.9714655172413793, 'eval_f1': 0.9714651607679492, 'eval_runtime': 35.8537, 'eval_samples_per_second': 323.537, 'eval_steps_per_second': 40.442, 'epoch': 5.0}
+
+
+--- Final Results ---
+Average Validation Metrics:
+eval_loss: 0.1024
+eval_accuracy: 0.9727
+eval_precision: 0.9729
+eval_recall: 0.9727
+eval_f1: 0.9727
+eval_runtime: 27.5791
+eval_samples_per_second: 336.4940
+eval_steps_per_second: 42.0616
+epoch: 4.6000
+
+Average Test Metrics:
+eval_loss: 0.1127
+eval_accuracy: 0.9702
+eval_precision: 0.9704
+eval_recall: 0.9702
+eval_f1: 0.9702
+eval_runtime: 35.0160
+eval_samples_per_second: 331.3274
+eval_steps_per_second: 41.4158
+epoch: 4.6000
